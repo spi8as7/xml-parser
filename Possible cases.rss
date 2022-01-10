@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <paok>
+        <mikrosPaok>asfads</mikrosPaok>
+    </paok>
+    <channel>mono paok</channel>
+    <link>http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+    <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-31691061</guid>
+    <atom:link href="http://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+    <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81356000/jpg/_81356152_454599682-2.jpg"/>
+</rss>

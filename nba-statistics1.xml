@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nbastats xmlns:nba="http://www.nba.com" xmlns:wiki="http://www.wikipedia.com/">
+  <club>
+    <title>Atlanta Hawks</title>
+    <location>Atlanta, Georgia</location>
+    <home wiki:url1="http://en.wikipedia.org/wiki/Philips_Arena">Phillips Arena</home>
+    <coach>
+      <head wiki:url1="http://en.wikipedia.org/wiki/Mike_Budenholzer">Mike Budenholzer</head>
+      <assistant>Kenny Atkinson</assistant>
+    </coach>
+    <roster>
+      <pos category="forward-center">
+        <player number="6" name1="Pero Antic">
+          <statistics games="60" ppg="5.7" rpg="2.9" apg="0.8"/>
+        </player>
+        <player number="7" name1="Elton Brand">
+          <statistics games="31" ppg="2.6" rpg="3.0" apg="0.6"/>
+        </player>
+      </pos>
+    </roster>
+  </club>
+  <club>
+    <title>Milwaukee Bucks</title>
+    <location>Milwaukee, Wisconsin</location>
+    <home wiki:url1="http://en.wikipedia.org/wiki/BMO_Harris_Bradley_Center"> BMO Harris Bradley Center</home>
+    <coach>
+      <head wiki:url1="http://en.wikipedia.org/wiki/Jason_Kidd">Jason Kidd</head>
+      <assistant>Joe Prunty</assistant>
+    </coach>
+    <roster>
+      <pos category="forward-center">
+        <player number="6" name="Zaza Pachulia">
+          <statistics games="68" ppg="8.3" rpg="6.9" apg="2.5"/>
+        </player>
+        <player number="7" name="Ersan Ilyasova">
+          <statistics games="53" ppg="11.4" rpg="4.9" apg="0.9"/>
+        </player>
+      </nba>
+      <pos category="forward-center">
+        <player number="34" name="Giannis Antetokounmpo">
+          <statistics games="77" ppg="12.7" rpg="6.7" apg="2.5"/>
+        </player>
+      </nba>
+    </roster>
+  </club>
+</nbastats>
+

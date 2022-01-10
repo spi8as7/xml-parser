@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - Home</title>  
+    <link>http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+    <description>The latest stories from the Home section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Tue, 03 Mar 2015 10:09:06 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - Home</title>  
+      <link>http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>5</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>Body parts found in Becky search</title>  
+      <description>Police investigating the disappearance of Bristol teenager Becky Watts find body parts.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-31709056#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-31709056</guid>  
+      <pubDate>Tue, 03 Mar 2015 10:16:47 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81360000/png/_81360920_breaking_image_large-3.png"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81360000/png/_81360921_breaking_image_large-3.png"/> 
+    </item>  
+    <item> 
+      <title>Jail threat for sex abuse 'neglect'</title>  
+      <description>Teachers, councillors and social workers in England and Wales who fail to protect children from sexual exploitation could face up to five years in jail under proposals being unveiled by the PM.</description>  
+      <link>http://www.bbc.co.uk/news/uk-31691061#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-31691061</guid>  
+      <pubDate>Tue, 03 Mar 2015 10:14:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/81356000/jpg/_81356152_454599682-2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/81356000/jpg/_81356153_454599682-2.jpg"/> 
+    </item>
+  </channel> 
+</rss>

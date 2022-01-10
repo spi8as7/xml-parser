@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"> 
+  <book category="cooking" author="teo" >
+    <media:title lang="en">Everyday Italian</title>
+    <media:author>Giada De Laurentiis</author>
+    <test>
+        <year>2005</year>
+        <price>30.00</price>
+	<monaxo x="22" />
+    </test>
+    <adeio name="value"/>
+  </book>
+  <book category="children">
+      <skata:title lang="en">Harry Potter</title>
+      <author>J K. Rowling</author>
+      <year>2005</year>
+      <price>29.99</price>
+  </book>
+</bookstore>         
